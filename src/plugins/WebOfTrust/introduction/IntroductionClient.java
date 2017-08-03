@@ -693,7 +693,7 @@ public final class IntroductionClient extends TransferThread  {
 		}
 	}
 	
-	/* Not needed functions from the ClientCallback interface */
+	/* Insert Callback Functions non Clientside Interface */
 
 	/** Only called by inserts */
 	@Override
